@@ -9,3 +9,5 @@ spawnpoint 'mp_f_freemode_01' {
     y = 175.056,
     z = 72.8446
 }
+
+---
