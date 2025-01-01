@@ -1,0 +1,10 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7290 Starting - 12/31/2024, 11:10:59 PM
+================================================================
+[23:11:29][RealKeemOutside] created admins file
+[23:11:49][RealKeemOutside] Changing global settings via setup stepper and started Deployer.
+[23:12:08][RealKeemOutside] Setting recipe.
+[23:12:09][RealKeemOutside] Running recipe.
+[23:12:20][RealKeemOutside] Completed and committed server deploy.
+[23:12:26][RealKeemOutside] executed "RESTART SERVER"
